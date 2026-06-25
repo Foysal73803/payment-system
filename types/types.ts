@@ -11,7 +11,6 @@ export interface BetType {
     date: string | null,
     status: string | null,
     winOrLose: string | null
-
 };
 
 export interface Product {
